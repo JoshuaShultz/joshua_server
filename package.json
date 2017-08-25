@@ -1,0 +1,24 @@
+{
+  "name": "joshua_aflevering",
+  "version": "1.0.0",
+  "description": "Test of server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaShultz/Nodeserver.git"
+  },
+  "keywords": [
+    "Js",
+    "node.js"
+  ],
+  "author": "Joshua Schultz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaShultz/Nodeserver/issues"
+  },
+  "homepage": "https://github.comJoshuaShultz/Nodeserver#readme"
+}
